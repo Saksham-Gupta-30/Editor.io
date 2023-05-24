@@ -4,7 +4,9 @@
 
 </div>
 
-## Online code editor for HTML, CSS and Javascript to discover frontend code
+## Online Code Editor for HTML, CSS, and JavaScript
+
+### Demo
 
 <div align="center">
   <img alt="Demo" src="./src/Assets/web.gif"/>
@@ -12,13 +14,15 @@
 
 ### Features:
 
-- No installation, work online and build web pages.
-- Auto Save of all your work
-- Supports JQuery
-- Auto-close of tags and brackets
-- Live Preview
+- No installation required; work online and build web pages easily.
+- Auto Save feature to save all your work automatically.
+- Supports JQuery library for enhanced functionality.
+- Auto-closing of tags and brackets for improved code editing experience.
+- Live Preview feature to see your changes in real-time.
 
-## Online Markdown editor for generating Readme Files
+## Online Markdown Editor for Generating Readme Files
+
+### Demo
 
 <div align="center">
   <img alt="Demo" src="./src/Assets/markdown.gif"/>
@@ -26,9 +30,9 @@
 
 ## Features
 
-- GFM
-- Supports Html Tags
-- Custom toolbar to make editing easier
-- Live Preview
-- Auto save of work
-- Download the file Readme.md file
+- Supports GitHub Flavored Markdown (GFM) for creating professional-looking Readme files.
+- Ability to use HTML tags within the Markdown editor for advanced formatting.
+- Custom toolbar to make editing easier with quick access to commonly used formatting options.
+- Live Preview feature to see the rendered Markdown file as you type.
+- Auto Save feature to automatically save your work as you go.
+- Download the generated Readme.md file for easy sharing and distribution.
